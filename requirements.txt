@@ -1,4 +1,5 @@
 streamlit
 numpy
 numpy-financial
-plotly.graph_objects
+plotly
+pandas
